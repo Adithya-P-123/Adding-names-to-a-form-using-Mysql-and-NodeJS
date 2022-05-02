@@ -19,3 +19,6 @@ This folder is the front-end part of the project. This consists of <code>index.h
 ### <code>index.css</code>
 - After linking the css stylesheet, style the webpage to your liking.
 - The styling that I have done --> ![output-onlinetexttools](https://user-images.githubusercontent.com/74101541/166186859-1e7df313-b3cf-4568-bb01-9034121496bf.png)
+
+### <code>script.js</code>
+**Will be added later**
